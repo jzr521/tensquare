@@ -4,6 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>com.tensquare</groupId>
     <artifactId>tensquare_parent</artifactId>
     <packaging>pom</packaging>
@@ -79,6 +80,11 @@
             </snapshots>
         </pluginRepository>
     </pluginRepositories>
+=======
+    <groupId>org.example</groupId>
+    <artifactId>tensquare_parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+>>>>>>> 55020eebb930018a0e20a12098d2b764ea2c271d
 
 
 </project>

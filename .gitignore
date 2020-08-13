@@ -8,5 +8,9 @@
 /httpRequests/
 .idea/
 tensquare_parent.iml
+<<<<<<< HEAD
 target/
 .gitignore
+=======
+target/
+>>>>>>> 55020eebb930018a0e20a12098d2b764ea2c271d
