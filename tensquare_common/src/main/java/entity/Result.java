@@ -23,7 +23,7 @@ public class Result {
                 '}';
     }
 
-    public Result() {
+    public Result(boolean b, int ok, String 添加成功) {
     }
 
     public Result(Boolean flag, Integer code, String message, Object data) {

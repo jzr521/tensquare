@@ -33,6 +33,7 @@
             <version>${mybatisplus.version}</version>
         </dependency>
         <!-- mybatis-plus end -->
+
     </dependencies>
 
 </project>
